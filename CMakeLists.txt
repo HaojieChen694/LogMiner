@@ -17,4 +17,6 @@ add_executable(logminer
     src/text_stats.cpp
     src/stats_report.cpp
     src/tokenizer.cpp
+    src/indexer.cpp
+    src/query_engine.cpp
 )

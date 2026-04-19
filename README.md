@@ -35,3 +35,9 @@ std::isalnum(c) 是 C++ 库函数，用于判断字符 c 是否是字母或数�
 3. 记录文件路径
 4. 统计每个文件里每个词出现的次数
 5. 建立倒排索引
+
+- Day7
+1. 写 SearchResult
+2. 写 QueryEngine
+3. 支持 search_one
+4. 结果按出现次数排序
